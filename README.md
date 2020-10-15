@@ -7,7 +7,7 @@
 
 ### Circuit Components
 
-![Components](https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG =552x259)
+<img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG" width="552" height="259">
 
 * 9V Battery
 * Arduino Uno R3
@@ -18,7 +18,6 @@
 * Potentiometer
 
 ### Wiring
-![Wiring](https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Wiring.JPG =552x259)
-
+<img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Wiring.JPG" width="552" height="259">
 
 ### Notes about the Code
