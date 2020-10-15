@@ -2,12 +2,12 @@
 
 ### Software Used
 
-* TinkerCard
-* XXXXX
+* Arduino 
+* TinkerCad 
 
 ### Circuit Components
 
-![Components](/photos/Components.jpg)
+![Components](https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG =552x259)
 
 * 9V Battery
 * Arduino Uno R3
@@ -17,7 +17,8 @@
 * Hobby Gearmotors (2)
 * Potentiometer
 
-### Setup
+### Wiring
+![Wiring](https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Wiring.JPG =552x259)
 
 
 ### Notes about the Code
