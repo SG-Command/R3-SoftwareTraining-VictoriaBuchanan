@@ -12,7 +12,7 @@ https://www.tinkercad.com/things/6qIoTWQcuCD
 
 <i>Image 1 - Components used in the circuit</i>
 
-<img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG" width="607" height="285>
+<img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG" width="607" height="285">
 
 * 9V Battery
 * Arduino Uno R3
