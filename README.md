@@ -10,7 +10,7 @@ https://www.tinkercad.com/things/6qIoTWQcuCD
 
 ### Circuit Components
 
-# Image 1 - Components used in the circuit
+_Image 1 - Components used in the circuit
 <img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG" width="607" height="285>
 
 * 9V Battery
@@ -23,7 +23,7 @@ https://www.tinkercad.com/things/6qIoTWQcuCD
 
 ### Wiring
 
-# Image 2 - Wiring of the completed circuit
+_Image 2 - Wiring of the completed circuit
 <img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Wiring.JPG" width="607" height="285">
 
 All the red wires are positive wires and the black wires are ground. The wires for each component are color coded as follows:
