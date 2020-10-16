@@ -10,7 +10,7 @@ https://www.tinkercad.com/things/6qIoTWQcuCD
 
 ### Circuit Components
 
-_Image 1 - Components used in the circuit
+<i>Image 1 - Components used in the circuit</i>
 
 <img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Components.JPG" width="607" height="285>
 
@@ -24,7 +24,7 @@ _Image 1 - Components used in the circuit
 
 ### Wiring
 
-_Image 2 - Wiring of the completed circuit
+<i>Image 2 - Wiring of the completed circuit</i>
 
 <img src="https://github.com/SG-Command/R3-SoftwareTraining-VictoriaBuchanan/blob/main/photos/Wiring.JPG" width="607" height="285">
 
